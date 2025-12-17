@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>من نحن – Brand School</title>
+<meta name="description" content="تعرف على مهمة Brand School لبناء هوية علامات تجارية قوية ومبتكرة.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <img src="images/mercedess-logo.png" alt="Mercedess Logo">
+  <h1>Brand School</h1>
+  <nav>
+    <a href="index-ar.html">الرئيسية</a>
+    <a href="about-ar.html">من نحن</a>
+    <a href="services-ar.html">الخدمات</a>
+    <a href="brands-ar.html">العلامات</a>
+    <a href="contact-ar.html">اتصل بنا</a>
+    <a href="index-en.html">English</a>
+    <a href="index-fr.html">Français</a>
+  </nav>
+</header>
+<main>
+<h2>من نحن</h2>
+<p>في Brand School، نعمل على بناء هوية قوية للعلامات التجارية لتتميز في السوق.</p>
+</main>
+<footer>
+  <p>© 2025 Brand School. جميع الحقوق محفوظة.</p>
+  <p>تواصل معنا:</p>
+  <ul>
+    <li><a href="https://www.facebook.com/XxmerxX1/about" target="_blank">Facebook</a></li>
+    <li><a href="mailto:merclean68@gmail.com">Email</a></li>
+  </ul>
+</footer>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brand School – Choose Language</title>
+<meta name="description" content="Welcome to Brand School. Choose your language to explore our brand services.">
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+<noscript>
+<h1>Brand School</h1>
+<p>Select your language:</p>
+<ul>
+  <li><a href="index-en.html">English</a></li>
+  <li><a href="index-fr.html">Français</a></li>
+  <li><a href="index-ar.html">العربية</a></li>
+</ul>
+</noscript>
+</body>
+</html>

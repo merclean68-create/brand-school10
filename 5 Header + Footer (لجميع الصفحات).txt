@@ -1,0 +1,22 @@
+<header>
+  <img src="images/mercedess-logo.png" alt="Mercedess Logo">
+  <h1>Brand School</h1>
+  <nav>
+    <a href="index-en.html">Home</a>
+    <a href="about-en.html">About Us</a>
+    <a href="services-en.html">Services</a>
+    <a href="brands-en.html">Brands</a>
+    <a href="contact-en.html">Contact</a>
+    <a href="index-fr.html">Français</a>
+    <a href="index-ar.html">العربية</a>
+  </nav>
+</header>
+
+<footer>
+  <p>© 2025 Brand School. جميع الحقوق محفوظة.</p>
+  <p>تواصل معنا:</p>
+  <ul>
+    <li><a href="https://www.facebook.com/XxmerxX1/about" target="_blank">Facebook</a></li>
+    <li><a href="mailto:merclean68@gmail.com">Email</a></li>
+  </ul>
+</footer>

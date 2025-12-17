@@ -1,0 +1,22 @@
+brandschool/
+├── index.html
+├── index-en.html
+├── about-en.html
+├── services-en.html
+├── brands-en.html
+├── contact-en.html
+├── index-fr.html
+├── about-fr.html
+├── services-fr.html
+├── brands-fr.html
+├── contact-fr.html
+├── index-ar.html
+├── about-ar.html
+├── services-ar.html
+├── brands-ar.html
+├── contact-ar.html
+├── style.css
+├── script.js
+└── images/
+    ├── mercedess-logo.png
+    └── mercedess-background.jpg
