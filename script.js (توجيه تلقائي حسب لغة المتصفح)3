@@ -1,0 +1,10 @@
+document.addEventListener('DOMContentLoaded', () => {
+  const userLang = navigator.language || navigator.userLanguage;
+  if(userLang.startsWith('fr')){
+    window.location.href = "index-fr.html";
+  } else if(userLang.startsWith('ar')){
+    window.location.href = "index-ar.html";
+  } else {
+    window.location.href = "index-en.html";
+  }
+});
